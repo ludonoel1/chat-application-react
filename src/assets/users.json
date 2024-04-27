@@ -1,0 +1,37 @@
+[  
+  {  
+    "id": 1,  
+    "name": "Luca",  
+    "email": "luca@gmail.com",  
+    "gender": "male",
+    "picture": "https://image.ibb.co/k0wVTm/profile_pic.jpg"
+  },  
+  {  
+    "id": 2,  
+    "name": "Alex",  
+    "email": "alex@gmail.com",  
+    "gender": "male",
+    "picture": "https://image.ibb.co/cA2oOb/alex_1.jpg"
+  },  
+  {  
+    "id": 3,  
+    "name": "Bob",  
+    "email": "bob@gmail.com",  
+    "gender": "male",
+    "picture": "https://image.ibb.co/gSyTOb/bob_1.jpg"
+  },  
+  {  
+    "id": 4,  
+    "name": "John",  
+    "email": "john@gmail.com",  
+    "gender": "male",
+    "picture": "https://image.ibb.co/k0wVTm/profile_pic.jpg"  
+  },  
+  {  
+    "id": 5,  
+    "name": "Mary",  
+    "email": "mary@gmail.com",  
+    "gender": "female",
+    "picture": "https://image.ibb.co/k0wVTm/profile_pic.jpg" 
+  }  
+]  
